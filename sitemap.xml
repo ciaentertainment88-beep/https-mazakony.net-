@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
+  <!-- Halaman Web Non-AMP -->
+  <url>
+    <loc>https://mazakony.net/bazaar/</loc>
+    <xhtml:link rel="amphtml" href="https://the-real-me.pages.dev/"/>
+  </url>
 
-<url>
-  <loc>https://the-real-me.pages.dev/</loc>
-  <lastmod>2025-09-27T03:30:30+00:00</lastmod>
-</url>
-
+  <!-- Halaman AMP -->
+  <url>
+    <loc>https://the-real-me.pages.dev/</loc>
+    <xhtml:link rel="canonical" href="https://mazakony.net/bazaar/"/>
+  </url>
 
 </urlset>
